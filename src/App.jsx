@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Services from "./components/Services";
 import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
-import Property from "./components/Property.JSX";
+import Property from "./components/Property";
 import Contact from "./components/Contact";
 import About from "./components/About";
 
